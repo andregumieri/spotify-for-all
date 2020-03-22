@@ -1,3 +1,6 @@
+- [See a demo](https://listen.musicforall.app/)
+- [Want to contribute?](https://github.com/andregumieri/music-for-all/blob/develop/contributing.md)
+
 [English](#english) | [Português](#português)
 
 # English
